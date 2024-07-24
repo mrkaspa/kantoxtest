@@ -1,0 +1,2 @@
+defmodule Kantox do
+end

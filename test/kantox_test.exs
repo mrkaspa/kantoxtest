@@ -1,0 +1,2 @@
+defmodule KantoxTest do
+end
